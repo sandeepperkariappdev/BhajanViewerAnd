@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <!-- Header aligned to top -->
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#FC9"
+        android:gravity="center" >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text=""
+            android:textColor="#0a50fb"
+            android:textSize="15sp"
+            android:id="@+id/header_title"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text=""
+            android:layout_below="@+id/header_title"
+            android:textColor="#0a50fb"
+            android:textSize="15sp"
+            android:id="@+id/sub_header_title"/>
+    </RelativeLayout>
+    <!-- Footer aligned to bottom -->
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#FC9"
+        android:gravity="center" >
+        <Button
+            android:id="@+id/Button_Prev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginRight="2dp"
+            android:layout_centerVertical="true"
+            android:text="Prev"
+            />
+        <Button
+            android:id="@+id/Button_Next"
+            android:layout_marginLeft="2dp"
+            android:layout_width="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="Next"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Fixed Footer"
+            android:textColor="#0a50fb"
+            android:textSize="15sp"
+            android:id="@+id/footer_title"
+            android:layout_centerHorizontal="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/footer_title"
+            android:text="Fixed Footer"
+            android:textColor="#0a50fb"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/sub_footer_title"
+            />
+    </RelativeLayout>
+    <!-- Content below header and above footer -->
+    <RelativeLayout
+        android:id="@+id/content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/footer"
+        android:layout_below="@id/header"
+        android:gravity="center" >
+        <ScrollView android:id="@+id/Bhajan_Area_Scroller"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_x="0px"
+            android:layout_y="25px"
+            android:scrollbars="vertical">
+            <TextView
+                android:id="@+id/Bhajan_Text_Content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_alignLeft="@+id/fbedittext"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/fbedittext"
+                android:layout_marginLeft="22dp"
+                android:layout_marginRight="22dp"
+                android:textSize="20sp"
+                android:textColor="#0a50fb"
+                android:textAlignment="center"
+                android:paddingLeft="30dp"
+                android:text="@string/bhajan_text" />
+        </ScrollView>
+    </RelativeLayout>
+
+</RelativeLayout>

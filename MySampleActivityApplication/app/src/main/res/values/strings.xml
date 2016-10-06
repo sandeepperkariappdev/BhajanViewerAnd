@@ -1,0 +1,895 @@
+<resources>
+    <string name="app_name">Bhajan Viewer</string>
+    <string name="APP_KEY">9vftylnjmlrzgwz</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="menus_array">
+        <!--<item>Home</item>-->
+        <item>Notification</item>
+        <item>History</item>
+        <item>Contact Us</item>
+        <item>About Us</item>
+        <item>Rate Us</item>
+        <item>Logout</item>
+    </string-array>
+    <string name="bhajan_text"> Owaloo aaratee mazhaa Sadgurunaathaa – maazhaa Sainaatha
+Paanchaahee tatwaanche deep laawilaa aataan
+Nirgunaachee sthitee kaisee aakaaraa aalee – Baba aakaaraa aalee
+Sarvaa ghatee bharooni vuralee Sayee Maawoolee Owaloo aaratee….
+RajaTamaSathwa tighe maayaa prasawalee – Mazyawara maayaa prasawalee
+Mayecheeye potee kaisee maayaa udbhavalee Owaloo aaratee….
+SaptaSaagaree kaisa khel maandeelaa – Baba khel maandeelaa
+Khelooniyaa khel awagha visthaar kelaa Owaloo aaratee….
+Brahmaandeechee rachanaa keisee daakhavilee dolaa – Baba daakhavilee dolaa
+Tuka hmane maazhaa Swaamee kripaaloo bholaa Owaloo aaratee….</string>
+     <string name="shej_aarathi_text">
+        SHRI SATCHITAANAND SADGURU SAINAATH MAHARAAJ KI JAI
+    </string>
+    <string name="shej_aarathi_text_1">
+        Owaloo aaratee mazhaa Sadgurunaathaa – maazhaa Sainaatha
+Paanchaahee tatwaanche deep laawilaa aataan
+Nirgunaachee sthitee kaisee aakaaraa aalee – Baba aakaaraa aalee
+Sarvaa ghatee bharooni vuralee Sayee Maawoolee Owaloo aaratee….
+RajaTamaSathwa tighe maayaa prasawalee – Mazyawara maayaa prasawalee
+Mayecheeye potee kaisee maayaa udbhavalee Owaloo aaratee….
+SaptaSaagaree kaisa khel maandeelaa – Baba khel maandeelaa
+Khelooniyaa khel awagha visthaar kelaa Owaloo aaratee….
+Brahmaandeechee rachanaa keisee daakhavilee dolaa – Baba daakhavilee dolaa
+Tuka hmane maazhaa Swaamee kripaaloo bholaa Owaloo aaratee….
+    </string>
+    <string name="shej_aarathi_text_2">
+        Lopale jnaana jagin – hita nenatee konee
+Avataara Panduranga – nam ttevile jnanee
+Aaratee Jnaanaraaja – mahaa kaivalya tejaa
+Sevitee Saadhusanta – hmanu vedhalaa maazha Aaratee Jnaanaraaja.
+Kanakachee tat kareen – Ubhyaa gopikaa naaree
+Narada tumbaraho – samgaayan karee Aaratee Jnaanaraaja….
+Pragata guhya bole – vishwa brahmachi kele
+Rama Janardanee – payee masthak ttevile Aaratee Jnaanaraaja….
+    </string>
+    <string name="shej_aarathi_text_3">
+        Aaratee Tukaaraamaa – Swamee Sadguru dhaamaa
+Satchidaananda murtee – paaya dakhavi aamhaa Aaratee Tukaaraamaa
+Raaghave Saagaraat – jaise paashaan taarile
+Taise he tuko baache – abhang rakshile Aaratee Tukaaraamaa…
+Tukitaa tulanesee – brahma tukasee aale
+Hmanoni raamesware – charanee mastak ttevile Aaratee Tukaaraamaa…
+    </string>
+    <string name="shej_aarathi_text_4">
+        Jai jai Sainatha aataa pahudaave mandiree ho, Jai jai Sainatha aataa pahudaave mandiree
+ho
+Aalavito sapreme tuzhala aaratee ghevuni kareeho, Jai jai Sainatha aataa pahudaave
+mandiree ho
+Ranjavisee too madhura bulunee – maaya jashi nija mulaa ho.
+Ranjavisee too madhura bulunee – maaya jashi nija mulaa ho
+Bhogisi vyadhee tunch haruniyaa – nijasevak dukhaalaa ho.
+Bhogisi vyadhee tunch haruniyaa – nijasevak dukhaalaa ho.
+Dhavuni bhakta vyasana harisi – darshan deshee tyaalaa ho
+Dhavuni bhakta vyasana harisi – darshan deshee tyaalaa ho
+Jzhaale astil kasta ateesaya tumache yaa dehaalaa ho Jai jai Sainatha…
+Skhmaa shayana sundara hee shobhaa – suman shej tyaavareen ho
+Skhmaa shayana sundara hee shobhaa – suman shej tyaavareen ho
+Gdhyaavee todee bhakta jananchee – pujan archan kareen ho
+Gdhyaavee todee bhakta jananchee – pujan archan kareen ho
+Owaalito panchaprana – jyotee sumatee kareen ho
+Owaalito panchaprana – jyotee sumatee kareen ho
+Sevaa kinkara bhakta preetee – attar parimala vaaree ho Jai jai Sainatha…
+Soduni jaayaa dukha waatate – Baba tava charanaansee ho
+Soduni jaayaa dukha waatate – Sayee tava charanaansee ho
+Agnesthavah aasi prasaada – ghevuni nijasadanaasee ho
+Agnesthavah aasi prasaada – ghevuni nijasadanaasee ho
+Jaato aata yevu punarapi – twatcharanaanche paashee ho
+Jaato aata yevu punarapi – twatcharanaanche paashee ho
+Uttavoon tujala Saimaavule – nijahitasaadhaa yaasee ho
+Uttavoon tujala Saimavule – nijahitasaadhaa yaasee ho Jai jai Sainatha…
+</string>
+    <string name="shej_aarathi_text_5">
+        Aataa Swaamee sukhe nidraa karaa avadhutaa – Baba karaa Sainathaa
+Chinmaya he sukhfhaama jaawuni pahudaa ekaantaa
+Vairaagyaachaa kunchaa ghewuni chowk jhadeela – Baba chowk jhadeela
+Tayaawaree supremaachaa shidakaavaa didhalaa Aataa Swaamee…
+Paayaghadadyaa ghatalyaa sundar navavidhaa bhakti - Baba navavidhaa bhakti
+Jnaanaachyaa samayaa laawuni ujalalyaa jyotee Aataa Swaamee…
+Bhaavaarthaanchaa manchaka hridaya kaashee taangilaa – hridaya kaashee taangilaa
+Manaachee sumane karunee kele sheejelaa Aataa Swaamee…
+Dwaitaache kapaat laavuni ekatra kele – Baba ekatra kele
+Durbuddheenchyaa gatte soduni padade sodeele Aataa swaamee…
+Aashaa trishnaa kal[anechaa Soonduni galabala – Baba Saanduni galabala
+Dayaa kshamaa shaantee daasee ubhyaa sewelaa Aataa Swaamee…
+Alakshya unmanee ghevunee Baba naajuk dusshaalaa – Baba naajuk dusshaalaa
+Niranjana Sadguru swamee nijavile shejelaa Aataa Swaamee…
+Shri Satchitaanand Sadguru Sainaath Maharaaj ki JAI
+Shri Guru Deva Datta!
+    </string>
+    <string name="shej_aarathi_text_6">Paahen prasadachee vaat ghyaave dhuvoniyaan taat
+Sesh ghewoniaan taat Tumche jhaliyaan bhojan
+Jhaalo aata eksavaa Tumha aadu niyaa devaa
+Tuka hmane aatan chitt karooni raahilo nischint.</string>
+    <string name="shej_aarathi_text_7">
+        Paawala prasaad aataa vitto nijaave – Baba aataa nijaave
+Apulaa to shrama kalo yetase bhaave
+Aataan Swaamee sukhe nidraa karaa Gopala – Baba Sai dayaalaa
+Purale manorath jato aapule sthalaa.
+Tumhaasee jaagawoo aamhi aapulya chaada – Baba aapulya chaada
+Shubhashub karme dosh haraavayaa peedaa.
+Aataan Swaamee sukhe nidraa karaa Gopala – Baba Sai dayaalaa
+Purale manorath jato aapule sthalaa.
+Tuka hmane didhale utchistaache bhojan - utchistaache bhojan
+Naahi nivadile aamha apulya bhinn.
+Aataan Swaamee sukhe nidraa karaa Gopala – Baba Sai dayaalaa
+Purale manorath jato aapule sthalaa.
+Aataan Swaamee sukhe nidraa karaa Gopala – Baba Sai dayaalaa
+Purale manorath jato aapule sthalaa.
+SADGURU SAINAATH MAHARAAJ KI
+Aum Raajaadhiraaja Yogiraaja ParaBrahma Sainaath Maharaaj
+Shri Satchitaanand Sadguru Sainaath Maharaaj ki Jai!
+    </string>
+    <string name="kakad_aarathi_text">
+          SHRI SATCHITAANAND SADGURU SAINAATH MAHARAAJ KI JAI
+    </string>
+    <string name="kakad_aarathi_text_1">
+        Joduniya kara charani thevila Matha
+Parisawi vinanti majhi sagurunatha
+Aso-naso bhava alo tujhiya thaya
+Kripa drishti pahe majkade sadgururaya
+Akhandita asawe aise watate payi
+Sanduni sankocha thav thodasa dei
+Tuka manhane deva maji vedi wakudi
+Namhe – bhavapasha hati apulya todi
+    </string>
+    <string name="kakad_aarathi_text_2">
+        Utha panduranga ata prabhat samayo patala
+Vaishnawancha mela garudapari datala
+Garuda-para pasuni mahadwara paryant
+Suravaranchi mandi ubhi joduniya hata
+Suka sanakadika narad tumbar bhaktanchyakoti
+Trishula damaroo gheuni ubha girjecha pati
+Kaliyugicha bhakta nama ubha kirtani
+Pathimage ubhi dola lavuniya jani
+    </string>
+    <string name="kakad_aarathi_text_3">
+        Utha utha sri sainath guru charana kamala dawa
+Aadhi vyadi bhavatapa varuni tara jadviwa
+Geli tumha soduniya bhawatama rajani vilaya
+Pari hi agnyanasi tumachi bhulawi yogmaya
+Shakti na amha Yatkinchitahi tijala saraya
+Tumhich teetay saruni dawa mukha jana taraaya
+Bho sainath maharaj bhawa timirnashaka ravi
+Agnyani amhi kiti tumhicha varnavi thorawi
+Tee warnita bhagale bahuvadani shesha vidhi kavi
+Sakurpa houni mahima tumacha tumhicha wadwa wa
+Utha Utha…
+
+Bhaktha mani sadbhaw dharuni je tumha anusarale
+Dhayastawa Te darshan tumche dwari ubhe thele
+Dhyanastha tumhasa pahuni man amuche dhale
+Pari Twad vachanamruta Prashayate atur jhale
+
+        Ughaduni netra kamala deenabhandu ramakanta
+Pahiba krupa drushti balaka jashi mata
+Ranjavi madhurvani Hari tapa Sai Natha
+Aamhich Apule Kajastawa tuja kashtavito Deva
+Sahan Karishil te aikuni dyawi bheta Krishna Dhawa
+Utha Utha Aadhi Wyadi
+    </string>
+    <string name="kakad_aarathi_text_4">
+        Utha Panduranga ata darshan dya sakala
+Jhala Arunodaya sarali nidrechi vela
+Sant sadhu muni avaghe jhaleti gola
+Soda Sheje sukh ata baghu dhya mukh kamala
+Rang Mandapi maha dwari jhalise dati
+Man utavil roop pahawaya drushti
+Rahi rakhumabai tumha yewoo dhya daya
+Sheje halawooni jage kara devaraya
+Garuda hanumanta ubhe pahati waata
+Swargiche surwara gheuni ale bobhat
+Jale mukta dwar labh jhala rokada
+Vishnu dasa nama ubha gheuni kakada</string>
+    <string name="kakad_aarathi_text_5">
+        Gheuniya pancharati karoo babansi arti
+Karoo sai si. Karoo babansi arti
+Utha utha ho bandhav owalu ha ramadhav
+Karuniya Sthira man, Pahu gambhir he dhyana
+Saiche hey
+Krishna natha datt sai jado chitt tujhepai</string>
+    <string name="kakad_aarathi_text_6">
+
+        Kakada arti karito sainatha deva
+Chinmaya roopa dakhavi gheuni balaka laghu seva
+Kamakrodha mada matsara atuni Kakada kela
+Vairagyache toopa ghalooni mi to bhijavila
+Sai natha guru bhakti jwalane to mi petawila
+Tad wruthi jaluni gurune parakash padila
+Dwaita tama nasuni milavi tatswaroopi jeewa
+Cinmaya…Kakada…Cinmaya
+Bhoo-kechar vyapuni avaghe hrudhkamali rahasi
+Tochi datta deva tu shiradi rahuni pawasi
+Rahooni yethe anyatrahi too baktanstava dhavasi
+Nirasuniya sankata dasa anubhava davisi
+Na Kale tvalliahi konya Deva va manava
+Cinmaya…Kakada…Cinmaya
+Twadhyasa dundu bhine sare ambara he kondale
+Saguna murti pahanya atura jan shirdi ale
+Prashuni twad vachanamrita amuche dehabhana harpale
+Soduniya durabhimana manasa twatcharni wahile
+Krupa karuniya sai maule dasa padari ghyawa
+Cinmaya…Kakada…Cinmaya
+    </string>
+    <string name="kakad_aarathi_text_7">
+        Bhakticiya poti bodh kakada jyothi
+Panchaprana jivebhave ovalu arti
+Ovalu arti majya pandharinatha majya sainatha
+Donhi Kara jodoni charani thevila matha
+Kaya mahima varnu ata sangane kiti
+Koti brahmahatya mukha pahata jati
+Rahi rukhumabai ubhya doghi do bahi
+Mayura piccha chamare dhallti thaiche thai
+Tuka mhane deepa gheuni unmaneeta shobha
+Vite vari ubha dise lawanya gabha.
+    </string>
+    <string name="kakad_aarathi_text_8">
+        Utha sadhu santa sadha apulale heeta
+Jaila jaila ha nardeha mag kaincha bhagwanta
+Uthoniya pahate baba uba ase vite
+Charana tayancha gomate amruta drishti avaloka
+Utha utha ho vegesi chala jawooya rawoolasi
+Jalatila patakanchya rasi kakad arti dekhiliya
+Jage kara rukminivara, deva ahe nijsurata
+Vege limbalona kara drishta hoila tayasi
+Dari wajantri vajati dhola damame garjati
+Hote kakada aarti majhya sadguru rayanchi
+Simvhanada shankha bheri ananda hoto mahadwari
+Keshavraja vitewari nama charana vandito</string>
+    <string name="kakad_aarathi_text_9">
+
+        Sainath guru majhe aaee,
+Majla thava dyava payee
+Datt raj guru majhe aaee,
+Majla thava dyava payee
+Sri satchidanand sadguru
+Sainath maharaja ki jai
+    </string>
+    <string name="kakad_aarathi_text_10">
+
+        Prabhat samayi nabha subha ravi prabha fakali
+Samare guru sada asa samayi tya chale na kali
+Manhoni kara jodoni karu ata guru prarthana
+Samartha guru sai natha puravi manovasana
+
+
+Tama nirasi bhanu ha guru hi nasi agnyanata
+Parantu guruchi kari na ravihi kadhi samyata
+Punha timira janma ghe gurukrupeni agnyana na
+Samartha guru sainatha puravi manovasana
+
+
+Ravi pragata hawooni twarita ghalawi alasa
+Tasa guruhi sodawi sakala dushkruti lalasa
+Haroni abhimanahi jadawi tatpadi bhavana
+Samartha guru sainatha puravi manovasana
+
+
+Gurusi upama dise vidheehari haranchi uni
+Kuthoni maga yei tee kavani ya ugi pahooni
+Tujjhicha upama tula bharavi shobhate sajjana
+Samartha guru sainatha puravi manovasana
+
+
+Samadhi utroniya guru chala mashidikade
+Twadiya vachnokti tee madhur variti sakade
+Ajataripu sadguro akhila pataka bhanjana
+Samartha guru sainatha puravi manovasana
+
+
+        Aha susamayasi ya guru uthoniya baisale
+Vilokuni padashrita tadiya apade nasile
+Asa suhitkari ya jagati konihi anya na
+Samartha guru sainatha puravi manovasana
+Ase bahuta shahana pari na jya guruchi kripa
+Na tatswahita tya kale karitase rikamya gapa
+Jari gurupada dhari sadrudha bhaktine to mana
+Samartha guru sainatha puravi manovasana
+Guro vinati mi kari hridaya mandiri ya basa
+Samasta jaga he guruswarupachi thaso manasa
+Ghado satata satkruti matihi de jagatpavana
+Samartha guru sainatha puravi manovasana
+Premeya ashtakasi padhuni guruvara prarthiti je prabhati
+Tyanche chittasee deto akhila Haruniya
+Bhranti mee nitya shanti
+Aise he sainathekathuni Suchvile jevi ya baalakasi,
+Tevi tya krisnapayi namuni Savinaye arpito ashtakasi..…9
+Sri Sachindananda Sadguru Sainatha Maharaja ki Jaya
+    </string>
+    <string name="kakad_aarathi_text_11">
+
+
+        Sai rahama najar karna, Bachoon ka palan karna
+Jana tumane jagat pasara, Sabahi jooth jamana
+Sai raham najar karna…
+Main andha hoon banda apaka, Mujako prabhu dikhlana
+Sai raham najar karna…
+Das ganu kahe aab kya bolu, Thaka gayi meri rasana
+Sai raham najar karna…
+
+    </string>
+    <string name="kakad_aarathi_text_12">
+
+        Raham najar karo, aba more sai
+Tuma bina nahi mujhe maa baap bhai - Raham ….
+Main andha hoon banda tumhara (2 times)
+Main na janoo (3 times) allah ilahi-Raham najar Karo
+Khali jamana main neh gamaya (2 times)….
+Sathi akharka (3 times) kiya na koi-Raham najar Karo
+Apne mashidka jhadoo ganu hai (2 times)
+Malik hamare (3 times), tum baba sai - Raham najar Karo
+    </string>
+    <string name="kakad_aarathi_text_13">
+
+        Tuja kaya deu sawalya mee khaya tari ho
+Tuja kaya deu sadguru mee khaya tari ho
+Mi dubali batik namyachee jaa shree hari (2 times)
+Uchhishta tula dene hi goshta na bari ho (2 times)
+Tu jagannatha, tuja deu kasire bhakari (2 times)
+Nako anta madiya pahu sakhya bhagwanta - shrikanta
+Madhyanha ratra Ultoni geli hi aata - ana chitta.
+Ja Hoila tujha re kakada ki raulantari ho (2 times)
+Anatila bhakti naivedyahi nanapari (2 times)
+    </string>
+    <string name="kakad_aarathi_text_14">
+
+        Sri sadguru baba sai (2 times)
+Tuja wanchuni ashraya nahi, bhutali (2 times)
+Mi papi patita dheemananda (2 times)
+Tarane mala gurunatha, jhadakari (2 times)
+Tu shantishamecha meru ho, (2 times)
+Tu bhavarnaviche taru guruvara (2 times)
+Guruvara majasi pamara, ata udddhvara
+Twarita lavlahi, Twarita lavlahi,
+Mi budato bhavabhaya dohi, uddhvara.
+Sri sadguru….
+    </string>
+    <string name="kakad_aarathi_text_15">
+        Sri sacchidananda sadguru
+Sainatha maharaja ki Jai.
+Aum Rajadhiraja Yogiraja
+Parabrahma Sainatha Maharaja
+Sri sacchidananda sadguru
+Sainatha maharaja ki Jai.
+    </string>
+
+<string name="dhoop_aarathi_text">
+  SHRI SATCHITAANAND SADGURU SAINAATH MAHARAAJ KI JAI
+
+</string>
+    <string name="dhoop_aarathi_text_1">Arati Sai Baba. Saukhyadatara Jiva. Caranarajatali
+Dyava dasa visava, bhakta visava
+Aarti…
+Jaluniya ananga. Sasvarupi rahe danga Mumuksa janan
+davi.
+Nija dola Sriranga. Dola Sriranga
+Aarti…
+Jaya mani jaisa bhava. Tayataisa anubhava Davisi
+dayaghana,
+Aisi tuzi he mava, tuzi he mava.
+Aarti…
+Tumace nama dhyata. Hare Sansruthivyatha
+Agadha Tava karani. Marga davisi anatha, davisi anatha.
+Aarti…
+Kaliyuga Avatara, Saguna Brahma sachara
+Avatirna zalase Svami Datta Digambara, Datta
+Digambara.
+Aarti…
+Athan Divasa Gurvari.Bhakta kariti vari.
+Prabhupada Pahavaya Bhava Bhayanivari, bhayanivari.
+Aarti…
+Maza nijadravya theva, Thava carana-raja-seva
+Magane heci aata, Tumhan devadideva, devadideva.
+Aarti…
+Ichita Dina chatak Nirmala toya nijasukha
+Pajaven Madhava Ya Sambhala apuli bhaka, apuli bhaka.
+Aarti…</string>
+    <string name="dhoop_aarathi_text_2">
+
+        Siradi Maze Pandharapura. Sai Baba Ramavare.
+Baba Ramavara. Sai Ramavara.
+Sudha bhakti chandrabhaga, Bhava Pundalika jaga.
+Pundalika jaga, Bhava Pundalika jaga.
+
+        Yaho yaho avaghe jana, Kara Babansi vandana
+Babansi vandana, Saisi vandana.
+Ganu mhane Baba Sai. Dhava pava mazi ai.
+Pava maze ai. Dhava pava mazi ai.
+    </string>
+    <string name="dhoop_aarathi_text_3">
+
+
+        Ghalina lotangana vandina carana,
+Dolyanni pahina rupa tuze
+Preme aligina, anande pujina,
+Bhave ovalina mhane Nama.
+Tvameva mata ca pita tvameva,
+Tvameva bandhusca sakha tvameva
+Tvameva vidya dravinam tvameva,
+Tvameva sarvam mama, Deva Deva.
+Kayane Vaca manasendriyairva.
+Budhyatmanava prakriti svabhavat
+Karomi yadyatsakalam parasmai.
+Narayanayeti samarpayami.
+Acchutam keshavam ramanarayanam
+Krishnadamodaram vasudevam harim
+Sridharam Madhavam Gopikavallabham,
+Janakinayakam Ramacandran bhaje.
+    </string>
+    <string name="dhoop_aarathi_text_4">
+        Hare Rama, Hare Rama, Rama Rama Hare Hare
+Hare Krishna, Hare Krishna, Krishna Krishna Hare Hare
+(3 times)
+    </string>
+    <string name="dhoop_aarathi_text_5">
+        Anantha tula te kase re stavave
+Anantha tula te kase re namve
+Anantha mukhanca sine sesa gatan
+Namaskara sastanga Sri Sainatha.
+Smarave mani tvatpada nitya bhave
+Urave tari bhaktisati svabhave
+Tarave jaga taruni mayatata
+Namaskara sastanga Sri Sainatha.
+Vase jo sada davaya santa lila
+Dise ajnya lokanpari jo jananla
+Pari antari jnana kaivalyadata.
+Namaskara sastanga Sri Sainatha.
+Bari ladhala janma ha manavaca
+Nara sarthaka sadhanibhuta saca
+Dharu Sai preme galaya ahanta
+Namaskara sastanga Sri Sainatha.
+Dharave kari sana alpajna bala
+Karave amhan dhanya cumboni gala
+    Mukhi ghala preme khara grasa ata.
+Namaskara sastanga Sri Sainatha.
+Suradhika jyanchya pada vandhitati
+Sukadika jyate samanatva deti
+Prayagadi tirthe padi namrahota.
+Namaskara sastanga Sri Sainatha.
+Tuzya jya pada pahata gopabali
+Sada rangali citsavarupi milali
+Kari rasakrida save Krsnanatha.
+Namaskara sastanga Sri Sainatha.
+Tula magato magane eka dyave
+Kara joditho dina atyanta bhave
+Bhavi Mohaniraja ha tari aata.
+Namaskara sastanga Sri Sainatha.
+    </string>
+    <string name="dhoop_aarathi_text_6">
+        Aisa yei Ba. Sai Digambara. Akshayarupa Avatara Sarvahi
+vyapaka tu.
+Sruti Sara, Anusaya-trikumara Aisa yei ba
+Kasi Snana Japa, prathidivasi. Kohlapura bhiksesi
+Nirmala nadi tunga, jala prasi, Nidra mahura desi. Aisa yei
+ba
+Zoli lombatase vama kari. Trisula damaru-dhari
+Bhaktan varada sada sukhakari Deshila Mukti cari Aisa yei
+ba
+Payi paduka japamala kamandalu mrgachala Dharana
+karisi Ba
+Nagajata muguta sobhato matha. Aisa yei ba
+Tatpara tuzya ya he dhyani. Aksaya tyanche sadani
+Lakshmi vasakari dinarajani. Raksisi sankata varuni Aisa
+yei ba
+Ya pari dhyana tuze Gururaya drsya kari nayanan ya
+Purnanandha sukhe hi kaya. Lavisi hariguna gaya.
+Aisa yei Ba. Sai Digambara. Akshayarupa Avatara Sarvahi
+vyapaka tu.
+Sruti Sara, Anusaya-trikumara Aisa yei ba
+
+    </string>
+    <string name="dhoop_aarathi_text_7">
+        Sada satsavarupam cidananda kandam
+jagatsambhavasthana samhara he tum
+Svabhaktecchaya manusam darsyamtam, namamisvaram
+sadgurum sainatham.
+Bhavadhvantavidvamsa martandamidayam
+manovaggatitam munirdhyanagamyam
+        Jagat-vyapakam nirmalam nirgunam tvam, namamisvaram
+sadgurum sainatham.
+Bhavbambhodhi magnarditanam jananam, svapadasritanam
+svabhaktipriyanam
+Samudharanartha kalau sambhavantam, namamisvaram
+sadgurum sainatham.
+Sada nimbavrksasya muladhivasat sudhastravinam titka
+mapya priyam tam
+Tarun kalpavrksadhikam sadhayantam, namamisvaram
+sadgurum sainatham.
+Sada kalpavrksasya tasyadhimule bhavedbhavabuddhaya
+saparyadhisevaam
+Nrnam kurvathaam bhuktimukti ptadam tam,
+namamisvaram sadgurum sainatham.
+Anekasruta tarkya lilavilasaih, samaviskrtesana
+bhasvatprabhavam
+Ahambhavahinam prasannatmabhavam, namamisvaram
+sadgurum sainatham.
+Satam visrama rama mevabhiramam, sada sajjanaih
+Sanstutam sannamaddhih,
+Janamodadam bhaktabhadra-pradham tam,
+namamisvaram sadgurum sainatham.
+Ajanmadhyamekham param brahma saksat svayam
+sambhavam ramameva vathirnam
+Bhavadarsanatsam Punitah praboham, namamisvaram
+sadgurum sainatham.
+Sri Saisa Krpanidhe khilanrnam sarvarthasiddhiprada
+Yusmatpadarajah prabhavamatulam dhatapivakta
+kshamah
+Sadbhaktya saranam krtanjaliputah samprapito-smi
+Prabho,
+Srimat Sau paresapada-kamalannanyaccharanyam
+mama.
+Sairupadhara Raghavottamam bhakta kama vibhudha
+dhrumam Prabhum.
+Mayayopahatacitta suddhaye, cintaya myahamaharnisammuda.
+Saratsudhamsu pratima-prakasham, kripatapatram tava
+sainatha
+Tvadhiyapadabja samsritanam svacchayay
+tapamapakarotu.
+Upasanadaivata Sainatha, stavair mayopasanina
+stutastvam
+Ramenmano me tava padayugme, bhrngo, yathabje
+makarandalubdhah.
+        Anekajanmarjita papasankshyo, bhavedhbhavatpada
+saroja darsanat
+Ksamsva sarvana paradha punjakan prasida Saisa Guro
+dayanidhe.
+Sri Sainatha caranamrta puta cittastatpada sevanaratah
+satatam ca bhaktya
+Sansara janya duritau dhavinir gathaste kaivalyadhama
+paramam samavapnuvanti.
+Stotrametatpathedbhaktya yo narastanmanah sada
+Sadguru Sainathasya krpa patram bhaved dhruvam.
+Sainatha krpa sarvadrusatpadya kusumavalih
+Sreyase ca manah sudhyai premasutrena gumfita.
+Govindasuriputrena Kasinathabhidhayina
+Upasanityupakhyena Sri Sai Gurave’ rpita.
+    </string>
+    <string name="dhoop_aarathi_text_8">
+        Ruso mama priyambija mahavari pitahi ruso,
+Ruso mama priyangana, priyasutatmajahi ruso.
+Ruso bhagini bandhuhi, svasura sasubai ruso
+Na Datta Guru Sai ma, majavari kadihi ruso.
+Puso na sunabai tya maja na bhratrjaya puso
+Puso na priya soyare, priya sage na jnati puso.
+Puso suhrda na sakha, svajana naptabandhu puso,
+Pari na Guru Sai ma, majavari kadihi ruso.
+Puso na anala mule, taruna vrddhahi na puso,
+Puso na Guru dhakute, maje na thora sane puso.
+Puso naca bhalebure, sujana sadhuhi na puso,
+Pari na Guru Sai ma, majavari kadihi ruso.
+Ruso catura tattvavit vibudha prajna jnani ruso,
+Rusohi vidusi striya kusala panditahi ruso,
+Ruso mahipati vati bhaiaka tapasihi ruso,
+Na Datta Guru Sai ma, majavari kadihi ruso.
+Ruso javi rsi muni anagha siddha yogi ruso,
+Ruso hi grhadevata, ni kulagramadevi ruso.
+Ruso khala pisaccahi malina dakinihi ruso,
+Na Datta Guru Sai ma, majavari kadihi ruso.
+Ruso mrga khaga krmi, akila jivajantu ruso,
+Ruso vitapa prasatara acala apagabdhi ruso.
+Ruso kha pavanagni vara avani pancatattve ruso,
+Na Datta Guru Sai ma, majavari kadihi ruso.
+Ruso vimala kinnara amala yakinihi ruso,
+Ruso sasi khagadihi, gagani tarakahi ruso.
+Ruso amararajahi adaya Dharmaraja ruso,
+Na Datta Guru Sai ma, majavari kadihi ruso.
+Ruso mana sarasvati, capalacitta tehi ruso,
+        Ruso vapu disakhila kathina kala rohi ruso.
+Ruso sakala visahi mayi tu brahmagola ruso,
+Na Datta Guru Sai ma, majavari kadihi ruso.
+Vimudha mhanuni haso, maja na matsarahi daso,
+Padabhiruci ulhaso, jananakardami na faso.
+Na durga dhrtica dhaso, asivabhava mage khaso,
+Prapanci mana he ruso, drdha virakti citti thaso.
+Kunachi ghrna naso na ca sprha kasaci aso,
+Sadaiva hrdayi vaso, manasi dhyani Sai vaso.
+Padi pranaya vorso, nikhila drsya Baba diso,
+Na Datta Guru Sai ma, upari yacanela ruso.
+    </string>
+    <string name="dhoop_aarathi_text_9">
+        Hari Aum Yajnena yajnamayajanta Devastani dharmani
+prathamanyasan
+Te ha nakam mahimanah sacanta yatra Purve sadhya
+santi devah.
+Aum Rajadhirajaya prasahyasahine namo vayam
+vaisravanaya kurmahe.
+Sa me kamanka makamaya mahyam Kamesvaro
+vaisravano dadhatu
+Kuberaya Vaisravanaya Maharajaya Namaha
+Aum Svasti. Sam Rajam Bhaujyam. Svarajyam Vairajyam
+Para,eshtayam Rajyam
+Maharajyamadhipatya mayam Samantaparyayi
+Syatsarvabhaumah
+Sarvayusya Antadaparardhat prithivyai
+samudraparyanthaya ekaraliti.
+Tadapyesa slok’bhi gito marutah parivestaro
+Maruttasyavasangrhe, Aviksitasaya kamaprervisvedevah
+sahasada iti.
+    </string>
+    <string name="dhoop_aarathi_text_10">
+        Sri Narayana Vasudeva
+Sachidananda Sadguru Sainatha
+Maharaja Ki Jaya.
+    </string>
+    <string name="dhoop_aarathi_text_11">
+        Karacharanakrtam vakkayajam karmajam va
+Sravananayanajam va manasam va’ paradham
+Viditamaviditam va sarvametatksamasva.
+Jaya Jaya karunabdhe Sri Prabho Sainatha
+Sri sacchidananda sadguru
+Sainatha maharaja ki Jai.
+Aum Rajadhiraja Yogiraja
+Parabrahma Sainatha Maharaja
+Sri sacchidananda sadguru
+Sainatha maharaja ki Jai.</string>
+    <string name="madhyana_aarathi_text">
+        SHRI SATCHITAANAND SADGURU SAINAATH MAHARAAJ KI JAI
+    </string>
+    <string name="madhyana_aarathi_text_1">
+        Gheuniya Pancharati, Karu Babansi Arati,
+Karu Saisi Arati, Karu Babansi Arati.
+Utha utha ho bandhava. Ovalu ha rakhumadhava.
+Sai Ramadhava. Ovalu ha rakhumadhava.
+Karuniya Sthira Mana Pahu gambhira he dhyana
+Sai ce he dhyana Pahu gambira he dhyana.
+Krsnanatha datta-Sai. Jado citta tuje payi
+Citta Deva Payi. Jado citta tuje payi.</string>
+    <string name="madhyana_aarathi_text_2">
+        Arati Sai Baba. Saukhyadatara Jiva. Caranarajatali
+Dyava dasa visava, bhakta visava
+Aarti…
+Jaluniya ananga. Sasvarupi rahe danga Mumuksa janan
+davi.
+Nija dola Sriranga. Dola Sriranga
+Aarti…
+Jaya mani jaisa bhava. Tayataisa anubhava Davisi
+dayaghana,
+Aisi tuzi he mava, tuzi he mava.
+Aarti…
+Tumace nama dhyata. Hare Sansruthivyatha
+Agadha Tava karani. Marga davisi anatha, davisi anatha.
+Aarti…
+Kaliyuga Avatara, Saguna Brahma sachara
+Avatirna zalase Svami Datta Digambara, Datta
+Digambara.
+Aarti…
+Athan Divasa Gurvari.Bhakta kariti vari.
+Prabhupada Pahavaya Bhava Bhayanivari, bhayanivari.
+Aarti…
+Maza nijadravya theva, Thava carana-raja-seva
+Magane heci aata, Tumhan devadideva, devadideva.
+Aarti…
+Ichita Dina chatak Nirmala toya nijasukha
+Pajaven Madhava Ya Sambhala apuli bhaka, apuli bhaka.
+Aarti…
+
+    </string>
+    <string name="madhyana_aarathi_text_3">
+        Jaya Deva Jaya Deva Datta Avadhuta, O Sai Avadhuta
+Joduni kara thava carani thevito mata.
+Jaya Deva, Jaya Deva…
+Avatarasi tu yeta dharmate glani nasti kannahi tu lavisi
+nijabhajani
+Davisi nana lila asankhya rupani, Harisi dinance tu
+sankata dinarajani.
+Jaya Deva, Jaya Deva…
+Yavana-svarupi ekya darsana tva didhale, Samshaya
+nirasuniya tadadvaita ghalavile
+Gopichanda Manda tvaci uddharile, Momina vansi janmuni
+lokan tariyale.
+Jaya Deva, Jaya Deva…
+Bheda na tattavi Hindu-yavananca kahi, Davayasi zala
+punarapi naradehi
+Pahasi premane tu Hindu yavanahi, Davisi atmatvane
+vyapaka ha Sai.
+Jaya Deva, Jaya Deva…
+Deva Sainatha tvatpadanata vhave, Paramaya mohita
+janamocana zani vhave
+Tvakrpaya sakalance sankata nirasave, Desila tari de
+tvadyasa Krsnane gave.
+Jaya Deva, Jaya Deva…
+    </string>
+    <string name="madhyana_aarathi_text_4">
+        Siradi Maze Pandharapura. Sai Baba Ramavare.
+Baba Ramavara. Sai Ramavara.
+Sudha bhakti chandrabhaga, Bhava Pundalika jaga.
+Pundalika jaga, Bhava Pundalika jaga.
+Yaho yaho avaghe jana, Kara Babansi vandana
+Babansi vandana, Saisi vandana.
+Ganu mhane Baba Sai. Dhava pava mazi ai.
+Pava maze ai. Dhava pava mazi ai.
+    </string>
+    <string name="madhyana_aarathi_text_5">
+        Ghalina lotangana vandina carana,
+Dolyanni pahina rupa tuze
+Preme aligina, anande pujina,
+Bhave ovalina mhane Nama.
+Tvameva mata ca pita tvameva,
+Tvameva bandhusca sakha tvameva
+Tvameva vidya dravinam tvameva,
+        Tvameva sarvam mama, Deva Deva.
+Kayane Vaca manasendriyairva.
+Budhyatmanava prakriti svabhavat
+Karomi yadyatsakalam parasmai.
+Narayanayeti samarpayami.
+Acchutam keshavam ramanarayanam
+Krishnadamodaram vasudevam harim
+Sridharam Madhavam Gopikavallabham,
+Janakinayakam Ramacandran bhaje
+    </string>
+    <string name="madhyana_aarathi_text_6">
+        Hare Rama, Hare Rama, Rama Rama Hare Hare
+Hare Krishna, Hare Krishna, Krishna Krishna Hare Hare
+(3 times)
+
+    </string>
+    <string name="madhyana_aarathi_text_7">
+        Hari Aum Yajnena yajnamayajanta Devastani dharmani
+prathamanyasan Te ha nakam mahimanah sacanta yatra
+Purve sadhya santi devah.
+Aum Rajadhirajaya prasahyasahine namo vayam
+vaisravanaya kurmahe. Sa me kamanka makamaya
+mahyam Kamesvaro vaisravano dadhatu Kuberaya
+Vaisravanaya Maharajaya Namaha
+Aum Svasti. Sam Rajam Bhaujyam. Svarajyam Vairajyam
+Para,eshtayam Rajyam Maharajyamadhipatya mayam
+Samantaparyayi Syatsarvabhaumah Sarvayusya
+Antadaparardhat prithivyai samudraparyanthaya ekaraliti.
+Tadapyesa slok’bhi gito marutah parivestaro
+Maruttasyavasangrhe, Aviksitasaya kamaprervisvedevah
+sahasada iti.
+    </string>
+    <string name="madhyana_aarathi_text_8">
+
+        Sri Narayana Vasudeva
+Sachidananda Sadguru Sainatha
+Maharaja Ki Jaya.
+    </string>
+    <string name="madhyana_aarathi_text_9">
+        Anantha tula te kase re stavave
+Anantha tula te kase re namve
+Anantha mukhanca sine sesa gatan
+Namaskara sastanga Sri Sainatha.
+Smarave mani tvatpada nitya bhave
+Urave tari bhaktisati svabhave
+Tarave jaga taruni mayatata
+Namaskara sastanga Sri Sainatha.
+Vase jo sada davaya santa lila
+Dise ajnya lokanpari jo jananla
+Pari antari jnana kaivalyadata.
+Namaskara sastanga Sri Sainatha.
+
+        Bari ladhala janma ha manavaca
+Nara sarthaka sadhanibhuta saca
+Dharu Sai preme galaya ahanta
+Namaskara sastanga Sri Sainatha.
+Dharave kari sana alpajna bala
+Karave amhan dhanya cumboni gala
+Mukhi ghala preme khara grasa ata.
+Namaskara sastanga Sri Sainatha.
+Suradhika jyanchya pada vandhitati
+Sukadika jyate samanatva deti
+Prayagadi tirthe padi namrahota.
+Namaskara sastanga Sri Sainatha.
+Tuzya jya pada pahata gopabali
+Sada rangali citsavarupi milali
+Kari rasakrida save Krsnanatha.
+Namaskara sastanga Sri Sainatha.
+Tula magato magane eka dyave
+Kara joditho dina atyanta bhave
+Bhavi Mohaniraja ha tari aata.
+Namaskara sastanga Sri Sainatha.
+
+    </string>
+    <string name="madhyana_aarathi_text_10">
+        Aisa yei Ba. Sai Digambara. Akshayarupa Avatara Sarvahi
+vyapaka tu. Sruti Sara, Anusaya-trikumara Aisa yei ba
+Kasi Snana Japa, prathidivasi. Kohlapura bhiksesi Nirmala
+nadi tunga, jala prasi, Nidra mahura desi. Aisa yei ba
+Zoli lombatase vama kari. Trisula damaru-dhari
+Bhaktan varada sada sukhakari Deshila Mukti cari Aisa yei
+ba
+Payi paduka japamala kamandalu mrgachala Dharana
+karisi Ba
+Nagajata muguta sobhato matha. Aisa yei ba
+Tatpara tuzya ya he dhyani. Aksaya tyanche sadani
+Lakshmi vasakari dinarajani. Raksisi sankata varuni Aisa
+yei ba
+Ya pari dhyana tuze Gururaya drsya kari nayanan ya
+Purnanandha sukhe hi kaya. Lavisi hariguna gaya.
+Aisa yei Ba. Sai Digambara. Akshayarupa Avatara Sarvahi
+vyapaka tu.
+Sruti Sara, Anusaya-trikumara Aisa yei ba
+    </string>
+    <string name="madhyana_aarathi_text_11">
+        Sada satsavarupam cidananda kandam
+jagatsambhavasthana samhara he tum
+        Svabhaktecchaya manusam darsyamtam, namamisvaram
+sadgurum sainatham.
+Bhavadhvantavidvamsa martandamidayam
+manovaggatitam munirdhyanagamyam
+Jagat-vyapakam nirmalam nirgunam tvam, namamisvaram
+sadgurum sainatham.
+Bhavbambhodhi magnarditanam jananam, svapadasritanam
+svabhaktipriyanam
+Samudharanartha kalau sambhavantam, namamisvaram
+sadgurum sainatham.
+Sada nimbavrksasya muladhivasat sudhastravinam titka
+mapya priyam tam
+Tarun kalpavrksadhikam sadhayantam, namamisvaram
+sadgurum sainatham.
+Sada kalpavrksasya tasyadhimule bhavedbhavabuddhaya
+saparyadhisevaam
+Nrnam kurvathaam bhuktimukti ptadam tam,
+namamisvaram sadgurum sainatham.
+Anekasruta tarkya lilavilasaih, samaviskrtesana
+bhasvatprabhavam
+Ahambhavahinam prasannatmabhavam, namamisvaram
+sadgurum sainatham.
+Satam visrama rama mevabhiramam, sada sajjanaih
+Sanstutam sannamaddhih,
+Janamodadam bhaktabhadra-pradham tam,
+namamisvaram sadgurum sainatham.
+Ajanmadhyamekham param brahma saksat svayam
+sambhavam ramameva vathirnam
+Bhavadarsanatsam Punitah praboham, namamisvaram
+sadgurum sainatham.
+Sri Saisa Krpanidhe khiladrnam sarvarthasiddhiprad
+        Yusmatpadarajah prabhavamatulam dhatapivakta
+kshamah
+Sadbhaktya saranam krtanjaliputah samprapito-smi
+Prabho,
+Srimat Sau paresapada-kamalannanyaccharanyam
+mama.
+Sairupadhara Raghavottamam bhakta kama vibhudha
+dhrumam Prabhum.
+Mayayopahatacitta suddhaye, cintaya myahamaharnisammuda.
+Saratsudhamsu pratima-prakasham, kripatapatram tava
+sainatha
+Tvadhiyapadabja samsritanam svacchayay
+tapamapakarotu.
+        Upasanadaivata Sainatha, stavair mayopasanina
+stutastvam
+Ramenmano me tava padayugme, bhrngo, yathabje
+makarandalubdhah.
+Anekajanmarjita papasankshyo, bhavedhbhavatpada
+saroja darsanat
+Ksamsva sarvana paradha punjakan prasida Saisa Guro
+dayanidhe.
+Sri Sainatha caranamrta puta cittastatpada sevanaratah
+satatam ca bhaktya
+Sansara janya duritau dhavinir gathaste kaivalyadhama
+paramam samavapnuvanti.
+Stotrametatpathedbhaktya yo narastanmanah sada
+Sadguru Sainathasya krpa patram bhaved dhruvam.
+Sainatha krpa sarvadrusatpadya kusumavalih
+Sreyase ca manah sudhyai premasutrena gumfita.
+Govindasuriputrena Kasinathabhidhayina
+Upasanityupakhyena Sri Sai Gurave’ rpita.
+    </string>
+    <string name="madhyana_aarathi_text_12">
+        Karacharanakrtam vakkayajam karmajam va
+Sravananayanajam va manasam va’ paradham
+Viditamaviditam va sarvametatksamasva.
+Jaya Jaya karunabdhe Sri Prabho Sainatha
+    </string>
+    <string name="madhyana_aarathi_text_13">
+        Sri sacchidananda sadguru
+Sainatha maharaja ki Jai.
+Aum Rajadhiraja Yogiraja
+Parabrahma Sainatha Maharaja
+Sri sacchidananda sadguru
+Sainatha maharaja ki Jai.
+    </string>
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView android:id="@+id/Bhajan_Area_Scroller"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_x="0px"
+        android:layout_y="25px"
+        android:scrollbars="vertical">
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp">
+    <TextView
+        android:id="@+id/dhoop_Text_Content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:lineSpacingExtra="5dp"
+        android:textColor="#0a50fb"
+        android:textSize="18dp"
+        android:text="@string/dhoop_aarathi_text" />
+    <TextView
+        android:id="@+id/dhoop_Text_Content_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dhoop_Text_Content"
+        android:lineSpacingExtra="5dp"
+        android:layout_marginTop="22dp"
+        android:textColor="#0a50fb"
+        android:textSize="15dp"
+        android:text="@string/dhoop_aarathi_text_1" />
+    <TextView
+        android:id="@+id/dhoop_Text_Content_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dhoop_Text_Content_1"
+        android:lineSpacingExtra="5dp"
+        android:layout_marginTop="22dp"
+        android:textColor="#0a50fb"
+        android:textSize="15dp"
+        android:text="@string/dhoop_aarathi_text_2" />
+    <TextView
+        android:id="@+id/dhoop_Text_Content_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dhoop_Text_Content_2"
+        android:lineSpacingExtra="5dp"
+        android:layout_marginTop="22dp"
+        android:textColor="#0a50fb"
+        android:textSize="15dp"
+        android:text="@string/dhoop_aarathi_text_3" />
+    <TextView
+        android:id="@+id/shej_Text_Content_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dhoop_Text_Content_3"
+        android:lineSpacingExtra="5dp"
+        android:layout_marginTop="22dp"
+        android:textColor="#0a50fb"
+        android:textSize="15dp"
+        android:text="@string/dhoop_aarathi_text_4" />
+    <TextView
+        android:id="@+id/shej_Text_Content_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dhoop_Text_Content_4"
+        android:lineSpacingExtra="5dp"
+        android:layout_marginTop="22dp"
+        android:textColor="#0a50fb"
+        android:textSize="15dp"
+        android:text="@string/dhoop_aarathi_text_4" />
+    <TextView
+        android:id="@+id/dhoop_Text_Content_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dhoop_Text_Content_5"
+        android:lineSpacingExtra="5dp"
+        android:textColor="#0a50fb"
+        android:textSize="15dp"
+        android:layout_marginTop="22dp"
+        android:text="@string/dhoop_aarathi_text_6" />
+    <TextView
+        android:id="@+id/dhoop_Text_Content_7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dhoop_Text_Content_6"
+        android:lineSpacingExtra="5dp"
+        android:layout_marginTop="22dp"
+        android:textColor="#0a50fb"
+        android:textSize="15dp"
+        android:text="@string/dhoop_aarathi_text_7" />
+            <TextView
+                android:id="@+id/dhoop_Text_Content_8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/dhoop_Text_Content_7"
+                android:lineSpacingExtra="5dp"
+                android:layout_marginTop="22dp"
+                android:textColor="#0a50fb"
+                android:textSize="15dp"
+                android:text="@string/dhoop_aarathi_text_8" />
+            <TextView
+                android:id="@+id/dhoop_Text_Content_9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/dhoop_Text_Content_8"
+                android:lineSpacingExtra="5dp"
+                android:layout_marginTop="22dp"
+                android:textColor="#0a50fb"
+                android:textSize="15dp"
+                android:text="@string/dhoop_aarathi_text_9" />
+            <TextView
+                android:id="@+id/dhoop_Text_Content_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/dhoop_Text_Content_9"
+                android:lineSpacingExtra="5dp"
+                android:layout_marginTop="22dp"
+                android:textColor="#0a50fb"
+                android:textSize="15dp"
+                android:text="@string/dhoop_aarathi_text_10" />
+            <TextView
+                android:id="@+id/shej_Text_Content_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/dhoop_Text_Content_10"
+                android:lineSpacingExtra="5dp"
+                android:layout_marginTop="22dp"
+                android:textColor="#0a50fb"
+                android:textSize="15dp"
+                android:text="@string/dhoop_aarathi_text_11" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
